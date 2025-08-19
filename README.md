@@ -6,11 +6,11 @@ https://www.instagram.com/coding_brainery?igsh=eHM0emhwejJwOHNv&utm_source=qr
 
 I learned coding by myself watching YouTube playlists which are:
 
-C++ PlayLists I've completed:
+C++ Playlists I've completed:
 1. https://www.youtube.com/watch?v=z1FdInL8sjg&list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3
 2. https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow
 
-Python PlayLists I've completed:
+Python Playlists I've completed:
 1. [https://www.youtube.com/watch?v=YMXUxKDziaA&list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow
 ](http://youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
 
