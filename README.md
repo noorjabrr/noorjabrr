@@ -16,10 +16,10 @@ Python PlayLists I've completed:
 HarvardX: CS50's Introduction to Computer Science (not a YouTube Playlist but a course on the web Edx):
 1. https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science
 
-Also learned Lua for Roblox scripting the PlayList:
+Also learned Lua for Roblox scripting, Playlist:
 1. https://www.youtube.com/watch?v=9MUgLaF22Yo&list=PLQ1Qd31Hmi3W_CGDzYOp7enyHlOuO3MtC
 
-I as well made booklets for the playlists I've watched, (except for the Lua Roblox scripting course :\ ) check the Booklets repository!
+I as well made booklets for the playlists I've completed, (except for the Lua Roblox scripting course :\ ) check the Booklets repository!
 <!--
 **noorjabrr/noorjabrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
