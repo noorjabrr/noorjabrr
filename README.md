@@ -1,4 +1,4 @@
-hello worldd! I'm Noor, and I'm 16.
+Hello worldd! I'm Noor, and I'm 16.
 I enjoy coding as a hobby.
 I made a Python Beginner Course for students in my school under the name of Coding Brainery! Check this link:
 https://www.instagram.com/coding_brainery?igsh=eHM0emhwejJwOHNv&utm_source=qr
