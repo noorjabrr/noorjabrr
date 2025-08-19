@@ -1,4 +1,4 @@
-Hello worldd! I'm Noor, and I'm 16.
+Heyy there! I'm Noor, and I'm 16.
 I enjoy coding as a hobby.
 I started coding at the age of 12, started with C++.
 I made a Python Beginner Course for students in my school under the name of Coding Brainery! Check this link:
